@@ -14,11 +14,11 @@ JATE or Just Another Text Editor is a web based text editor that was created as 
 [Questions](#questions)
 
 ## Project Install:
-There is a two step process to run this program. First step is to run npm run build to bundle all of the assets together to make a cohesive web application.
+There is a two step process to run this program. First step is to run npm run build in a terminal in the root directory to bundle all of the assets together to make a cohesive web application.
 
 `npm run build`
 
-The second step is to run npm run start to activate the server, and launch the web application.
+The second step is to run npm run start to activate the server, and launch the web application. Please refer to the package.json files to see a comprehensive list of all scripts.
 
 `npm run start`
 
