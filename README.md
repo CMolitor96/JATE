@@ -14,6 +14,11 @@ JATE or Just Another Text Editor is a web based text editor that was created as 
 [Questions](#questions)
 
 ## Project Install:
+This project is deployed live at Heroku: https://bloodcurdling-flesh-12385.herokuapp.com/
+
+
+This project can also be git cloned onto your local machine. After cloning and downloading all the necessary dependencies, follow the steps below to start the application. 
+
 There is a two step process to run this program. First step is to run npm run build in a terminal in the root directory to bundle all of the assets together to make a cohesive web application.
 
 `npm run build`
